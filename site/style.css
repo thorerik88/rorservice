@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+body, h1, h2, h3, p, ul, a, li, nav, footer, section, button, div {
+  margin: 0;
+  padding: 0;
+}
